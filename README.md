@@ -1,1 +1,3 @@
-"# ECE239" 
+# ECE239
+
+Projects for computational imaging.
